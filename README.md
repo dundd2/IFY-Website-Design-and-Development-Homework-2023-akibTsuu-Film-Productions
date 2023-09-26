@@ -1,6 +1,7 @@
 # ISC-WSDD-Homework-2023
 
 This is a website project created for the ISC Website Design and Development  Homework in May 2023.
+For more information please check that 2 docx files
 
 About
 The goal of this project was to design and develop a small website for a business or organization. The website contains a homepage and 4 additional pages on related topics.
