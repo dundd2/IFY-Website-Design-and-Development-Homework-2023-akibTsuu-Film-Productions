@@ -7,7 +7,7 @@ About
 The goal of this project was to design and develop a small website for a business or organization. The website contains a homepage and 4 additional pages on related topics.
 
 HTML5 and CSS were used to build and style the website. JavaScript was used for some interactive features.
-The website is for a fictional film production company called "aibiTsuu Film Productions".
+The website is for a fictional film production company called "akibTsuu Film Productions".
 
 Website Pages
 The website contains the following pages:
