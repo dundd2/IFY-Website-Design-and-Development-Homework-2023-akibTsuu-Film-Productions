@@ -1,4 +1,4 @@
-# ISC-WSDD-Homework-2023
+# Website Design and Development Homework 2023-akibTsuu Film Productions
 
 This is a website project created for the  Website Design and Development  Homework in May 2023.
 For more information please check that 2 docx files
