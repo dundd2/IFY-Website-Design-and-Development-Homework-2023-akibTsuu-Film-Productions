@@ -6,6 +6,8 @@ For further details, please refer to the accompanying 2 PDF documentation.
 
 This project is a small website designed for the fictional film production company, **aibiTsuu Film Productions**, The website aims to showcase the company's mission of creating compelling films while providing potential clients and audiences with information about its services and latest updates.
 
+![SC](https://github.com/dunc4009/ISC-WSDD-Homework-2023/assets/105787911/3e7e5af6-df8b-4eb1-98c3-3ba1cdd179bb)
+
 ## Website Pages
 
 - **Home**: Overview of aibiTsuu Film Productions and its mission.
