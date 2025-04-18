@@ -1,5 +1,5 @@
 # Website Design and Development Homework 2023-akibTsuu Film Productions
-View it at https://dundd2.github.io/IFY-Website-Design-and-Development-Homework-2023-akibTsuu-Film-Productions/index.html
+View it at https://dundd2.github.io/IFY-Website-Design-and-Development-Homework-2023-akibTsuu-Film-Productions/CodeBase/index.html
 
 
 This is a website project created for the SEP_IFY: Website Design and Development (WSDD) module  in March 2023.
